@@ -7,5 +7,5 @@ func RunHelloWorld() {
 }
 
 func DisplayNumber(number int) {
-    fmt.Println("Display" + number)
+    fmt.Println("Display ", number)
 }
